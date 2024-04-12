@@ -100,7 +100,7 @@ img {
 }
 
 .datostabla {
-  height: 260px;
+  height: 300px;
   width: 650px;
   background-color: rgba(255, 255, 255, 0.13);
   position: fixed;
@@ -112,6 +112,7 @@ img {
   box-shadow: 0 0 40px rgba(255, 0, 0, 0.6);
   padding: 50px 35px;
   float: right;
+  top: 53%;
 }
 
 .datos {
@@ -132,7 +133,7 @@ img {
 .datos h1 {
 
   font-family: 'Poppins', sans-serif;
-  color: #ffffff;
+  color: #020202;
   letter-spacing: 0.5px;
   outline: none;
   border: none;
@@ -142,9 +143,9 @@ img {
   display: flexbox;
   height: 25px;
   width: 100%;
-  background-color: rgba(50, 31, 71, 0.158);
+  background-color: rgba(255, 255, 255, 0.158);
   border-radius: 30px;
-  box-shadow: 0 0 40px rgba(255, 0, 0, 0.6);
+  box-shadow: 0 0 40px rgba(255, 255, 255, 0.6);
 
 }
 
